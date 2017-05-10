@@ -1,0 +1,10 @@
+TO RUN
+
+Make sure to place input file inside src folder
+Navigate to src folder with my files
+
+then do javac compiler.java, hit enter
+
+then do java compiler inputFileName.txt outputFileName.txt, hit enter
+
+the inputfile MUST BE IN THE SRC FOLDER.
